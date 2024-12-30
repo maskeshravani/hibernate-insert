@@ -1,6 +1,6 @@
 # hibernate-insert
 
-This project demonstrates the use of Hibernate ORM in Java to manage various entities such as Animal, Employe, Example, Stud, and Vehicle. Each entity is mapped to a database table using JPA annotations (@Entity, @Id), and Hibernate handles database operations like saving records.
+This project demonstrates the use of Hibernate ORM in Java to manage various entities such as Animal, Employe, product, Stud, and Vehicle. Each entity is mapped to a database table using JPA annotations (@Entity, @Id), and Hibernate handles database operations like saving records.
 
 Key Features:
 
